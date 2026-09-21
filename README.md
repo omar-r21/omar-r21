@@ -28,6 +28,11 @@ and expected shortfall both hold up; the parametric normal model breaches twice 
 and understates its own tail by a third.
 [See the report](https://omar-r21.github.io/riskkit/).
 
+**[portfolio-intelligence case study](https://github.com/omar-r21/portfolio-intelligence-case-study)**
+— a private dashboard and nightly digest for my own account. Three bugs worth recording, what it
+actually costs to run (about three cents a month), and why the AI recommendation feature is being
+replaced by riskkit.
+
 ---
 
 [LinkedIn](https://www.linkedin.com/in/omar-raya/)
