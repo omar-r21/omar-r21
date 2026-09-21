@@ -25,8 +25,8 @@ first cut of the data pointed at the wrong cause.
 Four methods compared over 4,711 out-of-sample days and scored with Kupiec, Christoffersen and the Basel
 traffic light. On a ten-ETF portfolio, filtered historical simulation is the only one whose breach count
 and expected shortfall both hold up; the parametric normal model breaches twice as often as advertised
-and understates its own tail by a third.
-[See the report](https://omar-r21.github.io/riskkit/).
+and understates its own tail by a third. [See the report](https://omar-r21.github.io/riskkit/).
+I run it nightly against my own account from the private app below.
 
 **[portfolio-intelligence case study](https://github.com/omar-r21/portfolio-intelligence-case-study)**
 — a private dashboard and nightly digest for my own account. Three bugs worth recording, what it
