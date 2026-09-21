@@ -21,10 +21,12 @@ after-repair-value model for Cook County, backtested against 728 real flips. The
 where it breaks: 16% median error on normal properties, 200%+ in cheap mixed neighbourhoods, and my
 first cut of the data pointed at the wrong cause.
 
-**riskkit** *(in progress)* — VaR and expected-shortfall model validation. Four methods compared over
-~4,000 out-of-sample days and scored with Kupiec, Christoffersen and the Basel traffic light. So far,
-on a ten-ETF portfolio, filtered historical simulation is the only one whose breach count and expected
-shortfall both hold up; the parametric normal model breaches twice as often as advertised.
+**[riskkit](https://github.com/omar-r21/riskkit)** — VaR and expected-shortfall model validation.
+Four methods compared over 4,711 out-of-sample days and scored with Kupiec, Christoffersen and the Basel
+traffic light. On a ten-ETF portfolio, filtered historical simulation is the only one whose breach count
+and expected shortfall both hold up; the parametric normal model breaches twice as often as advertised
+and understates its own tail by a third.
+[See the report](https://omar-r21.github.io/riskkit/).
 
 ---
 
