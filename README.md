@@ -30,8 +30,9 @@ wrong thing.
 
 **[portfolio-intelligence case study](https://github.com/omar-r21/portfolio-intelligence-case-study)**:
 a private dashboard and nightly email for my own brokerage account. Covers the bug that kept the email
-silently broken for months, what it costs to run (about three cents a month), and why I pulled the AI trade
-recommendations and put riskkit in their place.
+silently broken for months, what it costs to run (about three cents a month), why I pulled the AI trade
+recommendations and put riskkit in their place, and moving the back end from JavaScript to Python by
+testing each route against the original before switching it over.
 
 ---
 
